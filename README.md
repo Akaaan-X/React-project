@@ -13,5 +13,4 @@
 
 
 ### 网站首页视图
-
-![image](https://github.com/Akaaan-X/React-project/blob/master/src/static/homeScreenshot.png）
+<img src="https://github.com/Akaaan-X/React-project/blob/master/src/static/homeScreenshot.png" />
